@@ -1,0 +1,11 @@
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/danielzwelling/Documents/coding_stuff/c#-tutorial/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
