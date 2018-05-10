@@ -1,0 +1,11 @@
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.csprojAssemblyReference.cache
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/Debug/netcoreapp2.0/classes.pdb

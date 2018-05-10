@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/myApp/myApp.csproj",
-      "projectName": "myApp",
-      "projectPath": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/myApp/myApp.csproj",
+      "projectUniqueName": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/classes.csproj",
+      "projectName": "classes",
+      "projectPath": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/classes.csproj",
       "packagesPath": "/Users/danielzwelling/.nuget/packages/",
-      "outputPath": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/myApp/obj/",
+      "outputPath": "/Users/danielzwelling/Documents/coding_stuff/dot-net-tutorial/classes/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
